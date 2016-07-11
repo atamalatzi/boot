@@ -11,3 +11,4 @@
 | Pamela Garza       | @pamsny           | https://github.com/pamsny/resume          | https://pamsny.github.io/         |  
 | Samantha Indalecio | @samcio           | https://github.com/samcio/resume          | https://samcio.github.io/         |
 | Emmanuel Recinos   | @erecinos         | https://github.com/erecinos/resume        | https://erecinos.github.io/         
+| Angela Tamalatzi   | @atamalatzi       | https://github.com/atamalatzi/Resume1     | https://atamalatzi.github.io/     |
